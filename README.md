@@ -16,7 +16,10 @@ Designed an interactive Power BI dashboard that analyzes Samsung mobile sales fr
 ## Key Features of Dashboard
 
 ### **Global Insights**
-#### KPIs / Cards
+
+![Screenshot of Dashboard](samsung%20dashboard%20screenshot1.png)
+ 
+ #### KPIs / Cards
 - **Total Revenue**
 - **Total Units Sold**
 - **Average Price per Unit**
@@ -39,6 +42,9 @@ Designed an interactive Power BI dashboard that analyzes Samsung mobile sales fr
 ---
 
 ### **Regional Insights**
+
+![Screenshot of Dashboard](samsung%20dashboard%20screenshot2.png)
+
 #### Visual Insights
 - **Line Chart**: Revenue trends by year and region.
   ![Revenue by Region](assets/revenue-region-year.png)
