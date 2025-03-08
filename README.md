@@ -27,17 +27,12 @@ Designed an interactive Power BI dashboard that analyzes Samsung mobile sales fr
 
 #### Visual Insights
 - **Line Chart**: Revenue by year to identify sales patterns and seasonal trends.
-  ![Revenue by Year](assets/revenue-chart.png)
 - **Line Chart**: 5G preference by year to track changes in customer preference.
-  ![5G Preference](assets/5g-preference.png)
 - **Bar Chart**: Most purchased products to highlight top-selling models.
-  ![Top Products](assets/top-products.png)
 - **Donut Chart**: Revenue breakdown by region to analyze global market performance.
-  ![Revenue by Region](assets/revenue-region.png)
 
 #### Filters
 - **Slicers** allow users to isolate regions and time periods of interest.
-  ![Filters](assets/filters.png)
 
 ---
 
@@ -47,17 +42,12 @@ Designed an interactive Power BI dashboard that analyzes Samsung mobile sales fr
 
 #### Visual Insights
 - **Line Chart**: Revenue trends by year and region.
-  ![Revenue by Region](assets/revenue-region-year.png)
 - **Stacked Bar Chart**: Availability of models with 5G capability by year.
-  ![5G Models](assets/5g-models-available.png)
 - **Line Chart**: 5G coverage trends by year and region.
-  ![5G Coverage](assets/5g-coverage.png)
 - **Area Chart**: Units sold by year and region.
-  ![Units Sold](assets/units-sold-region.png)
 
 #### Filters
 - **Slicers** allow users to isolate regions and time periods of interest.
-  ![Regional Filters](assets/regional-filters.png)
 
 ## Business Impact
 - Provided **data-driven insights** for sales strategy and market expansion.
