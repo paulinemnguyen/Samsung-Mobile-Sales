@@ -65,7 +65,7 @@ Designed an interactive Power BI dashboard that analyzes Samsung mobile sales fr
   - **Visualization**: Power BI Reports & Dashboards
 
 ## Getting Started
-1. **Upload the dataset** (if applicable).
+1. **Upload the dataset**.
 2. **Open the `.pbix` file** in Power BI.
 3. **Use slicers** to explore trends across different regions and time periods.
 
@@ -76,4 +76,3 @@ Designed an interactive Power BI dashboard that analyzes Samsung mobile sales fr
 
 ---
 ### 📌 *Feel free to contribute or report issues!* 🚀
-"""
